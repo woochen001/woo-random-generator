@@ -1,0 +1,9 @@
+[general]
+host = "0.0.0.0"
+port = 8080
+root = "/public"
+log-level = "error"
+
+[advanced]
+directory-listing = false
+compression = true
