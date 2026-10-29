@@ -1,4 +1,0 @@
-kind: wasmer.io/App.v0
-name: random-tools
-owner: YOUR_WASMER_USERNAME
-package: YOUR_WASMER_USERNAME/random-tools
